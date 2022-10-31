@@ -3,7 +3,7 @@
 
 Simple code for a Password generator with guidelines described on Challenge 3 of University of Toronto Bootcamp.
 
-Used long named variables to illustrate as best as possibleto illuistrate how all the variables and functions are working together, at work level variables will use shorter names. 
+I used long named variables to illustrate as best as possible how all the variables and functions are working together, at work level variables will use shorter names. 
 
 ## Table of Contents 
 
